@@ -6,6 +6,7 @@ public class Test {
 		int a=10;
 		int b=20;
 		int c=30;
+		int d=40;
 
 		public void display(){
 			System.out.println("Welcome to git project");
